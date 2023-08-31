@@ -16,5 +16,3 @@ You can access, update, or delete your data by [explaining how users can manage 
 
 Updates to this Policy:
 This Privacy Policy may be updated from time to time. We recommend reviewing it periodically to stay informed about how your data is being handled.
-
-If you have any questions or concerns about this Privacy Policy, please contact us at [your contact email or link].
